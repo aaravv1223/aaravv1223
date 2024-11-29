@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaravv1223
-- 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in ...python, ml, css, html arduino, raspberry pi, 
+- 🌱 I’m currently learning ...python, html, 
 - 💞️ I’m looking to collaborate on ...idk anything lol
 - 📫 How to reach me ...Don't
 - 😄 Pronouns: ...He/Him
