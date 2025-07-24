@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @aaravv1223
-- 👀 I’m interested in ...python, ml, css, html arduino, raspberry pi, 
-- 🌱 I’m currently learning ...python, html, 
-- 💞️ I’m looking to collaborate on ...idk anything lol
-- 📫 How to reach me ...Don't
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...Nothin'
+ Hi, I’m @aaravv1223
+ I’m interested in ...python, ml, godot, arduino, raspberry pi and I’m currently learning ...python, html, 
 
 <!---
 aaravv1223/aaravv1223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
